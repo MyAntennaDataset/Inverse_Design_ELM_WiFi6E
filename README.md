@@ -5,4 +5,5 @@ Rows 1–52: S11 (return loss) values in linear scale, corresponding to frequenc
 Rows 53–103: Gain values in dB.
 Rows 104–128: Radiation pattern data points.
 Rows 129–132: Antenna geometry variables used for the design.
-The dataset is intended for machine learning–based antenna analysis, performance prediction, and optimization studies.
+The dataset is intended for machine learning–based antenna analysis, performance prediction, and optimization studies. 
+At present, the complete dataset and code will be provided upon request and made public soon. 
