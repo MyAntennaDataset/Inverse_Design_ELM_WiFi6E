@@ -6,4 +6,4 @@ Rows 53–103: Gain values in dB.
 Rows 104–128: Radiation pattern data points.
 Rows 129–132: Antenna geometry variables used for the design.
 The dataset is intended for machine learning–based antenna analysis, performance prediction, and optimization studies. 
-At present, the complete dataset and code will be provided upon request and made public soon. 
+At present, the complete dataset and code will be provided upon request and and will be made publicly available soon.
